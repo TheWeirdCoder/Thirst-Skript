@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  This text will be centered.
+  # 💧 A new thirst skript THAT ACTUALLY WORKS!
 </p>
 
 # Thirst-Skript
