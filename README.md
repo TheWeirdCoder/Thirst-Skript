@@ -4,6 +4,8 @@
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ **💧 An amazing thirst skript that actually works! 💧**
 
+<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&size=large&text=false" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+
 # Thirst-Skript
 This is a functioning thirst skript! There's a few online but almost none of them work. So i decided to make my own! Thank for ShaneBee and Fuzeion for helping me fix bugs in this code, and to xxawesqmexx for helping me optimize this code!
 
